@@ -10,3 +10,4 @@ If your hesitating on buying the course here is my personal opnion on the course
 
   I haven't learned JS yet but I'll keep you guys updated with daily updates!
   If you need helo please contact me @weunhed on discord or Instagram!!
+  Ps. I forgot to save the pricing panel! so sorry
