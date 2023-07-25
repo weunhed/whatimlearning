@@ -1,6 +1,6 @@
 # whatimlearning
 I am learning web development on Udemy 
-all of these files are waht I leanred or what I am currently leanring on Udemy with Colt Steele's full Web developer bootcamp!!
+all of these files are waht I learned or what I am currently learning on Udemy with Colt Steele's full Web developer bootcamp!!
 
 If your hesitating on buying the course here is my personal opnion on the course:
 - When you first buy it the first 20 ish vidoes you dont really learn anything after those 20ish videos you actually get to code in HTML
